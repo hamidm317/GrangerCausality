@@ -10,7 +10,7 @@ x(t) = a_1 * x(t - 1) + a_2 * x(t - 2) + ... a_n * x(t - n),
 
 and if y(t) have some effects on signal x(t), we may consider it as, 
 
-x(t) = a_1 * x(t - 1) + a_2 * x(t - 2) + ... a_n * x(t - n) + b_1 * y(t - 1) + b_2 * y(t - 2) + ... + b_m * y(t - m)
+\math x(t) = a_1 * x(t - 1) + a_2 * x(t - 2) + ... a_n * x(t - n) + b_1 * y(t - 1) + b_2 * y(t - 2) + ... + b_m * y(t - m)
 
 so, if we have two signals x and y and once try to estimate x(t) as an AR process by itself with error e_i and then try to estimate it as a combination of itself and signal y(t) with error value e_b, we define Granger Causality as
 
