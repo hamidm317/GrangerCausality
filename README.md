@@ -20,4 +20,4 @@ so, if we have two signals x and y and once try to estimate x(t) as an AR proces
 
 [1] [Granger Causaltiy in Wikipedia](https://en.wikipedia.org/wiki/Granger_causality)
 
-** Please note that this project is not completed yet, for more details contact me please! **
+** Please note that this project is not completed yet, for more details contact me! **
